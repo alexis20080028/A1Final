@@ -1,0 +1,253 @@
+.floatr {
+    float: right;
+}
+
+.floatl {
+    float: left;
+}
+
+h1 {
+    float: left;
+}
+
+.border {
+    border: 2px black solid;
+}
+
+.clear {
+    clear: both;    
+}
+
+body {
+
+}
+
+.marginmain {
+    margin: 30em 20em 0em 20em;
+    background-color: white;
+    padding: 0em 15em 0em 15em;
+    height: 63em;
+}
+
+main {
+    background-color: rgb(0, 0, 0);
+}
+
+header {    
+    background-color: white ;
+    margin: 2em 20em ;
+}
+
+button {
+    margin: 1.25em 0 0 1em;
+    background-color: rgb(31, 31, 31);
+    color: white;
+    width: 45%;
+    height: 2.5em;
+    float: left;
+}
+
+.degraderjau {
+    position: absolute;
+    padding: 0em 0em 0em 0em ;
+    background: linear-gradient(rgba(255, 255, 0, 0), orange);
+    height: 12.1em;
+    width: 1px;
+
+}
+
+.dezgradernoir {
+    background: rgba(0, 0, 0, 0.374);
+    height: 2em;
+    width: 2px;
+    display: inline-block;
+}
+
+.displinli {
+    display: inline-block;
+}
+
+header img:las {
+    width: 100%;
+}
+
+header p span {
+    color: orange;
+}
+
+h2 {
+    text-align: center;
+    margin: 0;
+}
+
+.titre {
+    position: absolute;
+    width: 20%;
+    margin: 3em 0em 0em 2em ;
+}
+
+.catalogue {
+    position: absolute;
+    left: 20em;
+    top: 14.8em;
+    width: 66.5%;
+    align-items: center;
+}
+
+header div div img{
+    padding: 1em;
+}
+
+header p:first-of-type {
+   float: right; 
+}
+
+header p {
+    font-size:  1.50rem;
+    float: right ;
+}
+
+header div div {
+    background-color: rgb(217, 217, 217);
+}
+header div div p{
+    font-size: 1.25rem;
+    padding: 0 4em 0em 1em ;
+    float: right;
+    margin: 1.50em 0 0 0;
+}
+
+.reduc {
+    text-align: center;
+    color: rgb(255, 145, 0);
+    background-color: rgb(62, 62, 62);
+    float: right;
+    font-size: 1.5rem;
+    width: 5%;
+    border-radius: 20%;
+}
+
+.reduc1 {
+    position: absolute;
+    left: 36em;
+}
+
+.traitver {
+    width: 50%;
+    height: 1px;
+    background: linear-gradient(to right, rgba(0, 0, 0, 0), rgb(0, 0, 0));
+    margin: 3em 0 0 11em;
+}
+
+.reduc2 {
+    position: absolute;
+    left: 53em;
+}
+
+header ul li {
+    display: inline-block;
+    padding: 0px 1em;
+    font-size: 1.33rem;
+    color: black;
+    border-right: 1px black solid;
+}
+
+.borderl {
+    border-left: 1px black solid;
+}
+
+.prixbarrer {
+    text-decoration: line-through;
+    float: left;
+    padding: 0 0.5em 0 1em;
+}
+
+header ul {
+    margin: 0;
+}
+
+.soustit {
+    position: absolute;
+    top: 6.50em;
+    font-size: 1.6rem;
+    margin: 0em 0em 0em 1.25em ;
+}
+
+article div p:nth-child(2) {
+    font-size: 1.25rem;
+    text-align: center;
+}
+
+.prix {
+    font-size: 3rem;
+    color: orange;
+    float: left;
+    margin: 0rem ;
+}
+
+footer ul {
+    list-style: none;
+    text-align: center;
+    background-color: rgb(194, 194, 194);
+    width: 50%;
+    margin: 0em 0 0 25%;
+    border-radius: 0px 0px 20px 20px;
+    padding: 0;
+}
+
+footer ul li{
+    padding: 1em;
+    display: inline-block;
+}
+
+.fontgris {
+    background-color: rgb(60,60,60);
+    width: 100%;
+}
+
+.zone {
+    width: 25%;
+}
+
+.fond {
+    background-color: white;
+}
+
+.end {
+    margin-left: 1%;
+    width: 14%;
+    display: inline-block;
+}
+
+footer div.end img {
+    padding: 0 33%;
+}
+
+footer {
+    background: rgb(73, 73, 73);
+    height: 29em;
+
+}
+
+footer p {
+    text-align: center;
+    color: white;
+}
+
+.réseauso {
+    width: 20%;
+    margin: 0 0 0 43.5%;
+}
+
+.réseauso img {
+    padding: 1.5em 2.5em;
+}
+
+.caractéristique {
+    margin: 2.5em;
+    padding: 0 0 0 29%;
+}
+
+.copyrate {
+    margin: 0 0% 0 5%;
+}

@@ -1,0 +1,91 @@
+.clear {
+    clear: both;
+}
+
+.h1 {
+    background-color: blue;
+    width: 30%;
+    height: 15rem;
+    float: left;
+}
+
+.h2 {
+    background-color: blueviolet;
+    width: 40%;
+    height: 15rem;
+    float: left;
+}
+
+.h3 {
+    background-color: blue;
+    width: 30%;
+    height: 15rem;
+    float: right;
+}
+
+.menu {
+    background-color: aqua;
+    height: 4rem;
+    width: 100%;
+}
+
+.gauche {
+    background-color: cadetblue;
+    width: 100%;
+    height: 100rem;
+}
+
+.a {
+    background-color: gray;
+    width: 42.5%;
+    height: 40rem;
+    float: right;
+}
+
+.b {
+    background-color: blue;
+    width: 42.5%;
+    height: 40rem;
+    float: right;
+}
+
+.slide {
+    background-color: darkslategray;
+    width: 85%;
+    height: 40rem;
+    float: right;
+}
+
+.c {
+    background-color: grey;
+    width: 21.25%;
+    height: 20rem;
+    float: right;
+}
+
+.d {
+    background-color: blue;
+    width: 21.25%;
+    height: 20rem;
+    float: right;
+}
+
+.e {
+    background-color: grey;
+    width: 21.25%;
+    height: 20rem;
+    float: right;
+}
+
+.f {
+    background-color: blue;
+    width: 21.25%;
+    height: 20rem;
+    float: right;
+}
+
+.bas {
+    background-color: dimgray;
+    width: 100%;
+    height: 5rem;
+}

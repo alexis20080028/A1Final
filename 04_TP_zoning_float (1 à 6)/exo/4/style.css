@@ -1,0 +1,46 @@
+
+
+.header {
+    background-color: blue;
+    height: 6rem;
+    width: 100%;
+
+}
+
+.nav {
+    background-color: aquamarine;
+    height: 4rem;
+    width: 100%;
+}
+
+.space {
+    background-color: aqua;
+height: 2rem;
+width: 100%;
+}
+
+.no {
+    background-color: white;
+    height: 40rem;
+    width: 100%;
+    position: absolute;
+}
+
+.section {
+    background-color: cornflowerblue;
+    height: 35rem;
+    width: 90%;
+    margin-left: 5%;
+    margin-top: 2.5rem;
+
+}
+.footer {
+    background-color: blue;
+    height: 6rem;
+    width: 100%;
+    margin-top: 40rem;
+}
+
+.clear{
+    clear: both;
+}

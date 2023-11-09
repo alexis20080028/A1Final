@@ -1,0 +1,25 @@
+.top {
+    background-color: yellow;
+    height: 10rem;
+    width: 100%;
+    text-align: center;
+
+} 
+.clear {
+    clear: both;
+}
+
+.left {
+    background-color: green;
+    width: 20%;
+    height: 80rem;
+    float: left;
+
+}
+
+.right {
+    background-color: blue;
+    width: 80%;
+    height: 80rem;
+    float: right;
+}

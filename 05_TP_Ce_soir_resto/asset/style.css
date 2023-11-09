@@ -1,0 +1,236 @@
+@import url('https://fonts.googleapis.com/css2?family=Caveat+Brush&display=swap');
+
+body {
+margin: 2rem 10%;
+background-color: rgba(159,197,182,255);
+}
+
+main {
+    height: 150rem;
+}
+* {
+    font-family:'Caveat Brush', cursive;
+}
+
+.floatl {
+    float: left;
+}
+
+.floatr {
+    float: right;
+}
+
+.clear {
+    clear: both;
+}
+
+h1 {
+    float: left;
+}
+
+.lettre {
+    position: absolute;
+    font-size: 60%;
+    text-decoration: underline black 3px;
+    padding: 0 0 1rem 0;
+    top: 3.75rem;
+}
+
+header {
+    background-image: url(/asset/img/woddPlank.jpg);
+    width: 100%;
+    height: 38rem;
+}
+header img {
+    clear: both;
+    position: absolute;
+    width: 15%;
+    margin: 10rem 22.25% 0 ;
+    transform: scaleX(-1);
+
+}
+
+h1,
+h3 {
+    font-size: 350%;
+    margin: 1.5rem 1rem;
+}
+
+h1, h2 {
+    text-transform: uppercase;
+}
+h2 {
+    margin: 0;
+    font-size: 2.5rem;
+}
+
+header ul {
+    float: right;
+    list-style: none;
+    
+
+}
+header li {
+    display: inline-block;
+    margin: 1rem 0rem;
+    padding: 0rem 2rem;
+    font-size: 1.3rem;
+}
+triangle {
+    position: relative;
+margin: 0% 47.5%;
+background: url(/asset/img/cerf.svg)no-repeat;
+display : inline-block;
+height : 0;
+width : 0;
+border-top : 50px solid #d4276d;
+border-left : 50px solid transparent;
+}
+
+main,
+footer {
+    background-color: rgba(255, 242, 218, 0);
+    background-image: url(/asset/img/pattern.jpg);
+}
+
+.h2 {
+    padding: 4rem 0 0 0;
+}
+
+.articlel p {
+    width: 45%;
+    text-align: center;
+    padding: 1rem 0rem 0rem 0rem;
+    font-size: 1.50rem;
+}
+.articlelimgg {
+    float: right;
+    height: 35rem;
+}
+.articlel h2 {
+    width: 45%;
+    text-align: center;
+    font-size: 3.50rem;
+}
+
+
+article p:last-of-type {
+    color: #d4276d;
+    text-transform: uppercase;
+}
+
+.rectangle {
+
+    background-color: #d4276d;
+    width: 2rem;
+    height: 0.5rem;
+    margin: 3rem 0 3rem 20%;
+}
+
+.smallimg {
+    width: 10rem;
+    mix-blend-mode: multiply;
+    margin: 3rem 12rem 0 0;
+}
+
+.nclear {
+    clear: none;
+}
+header i {
+    position: absolute;
+    color: #d4276d;
+    font-size: 3rem;
+    right: 49.5%;
+    bottom: 20rem;
+}
+.articler img:first-of-type {
+    width: 60rem;
+    float: left;
+}
+
+.articler h2,
+.articler p {
+text-align: center;
+margin: 0rem;
+width: 90%;
+padding: 1.25rem 0;
+}   
+
+.partart {
+    font-size: 1.50rem;
+    padding: 2rem 0;
+    float: left;
+    width: 30%;
+    position: absolute;
+    right: 10rem;
+    top: 85rem;
+}
+.rectangle1 {
+    text-align: center;
+    background-color: #d4276d;
+    width: 2rem;
+    height: 0.5rem;
+    align-items: center;
+    margin: 2rem 45%;
+
+}
+.articleim {
+    float: right;
+    width: 65%;
+}
+
+.partart2 {
+    width: 80%;
+}
+
+.smallimg2 {
+    width: 9rem;
+    height: 9rem;
+    mix-blend-mode: multiply;
+    margin: 0 0 0 15%;
+} 
+
+.eggs {
+    width: 100%;
+}
+
+footer {
+    margin: 0rem 0rem 10rem 0rem;
+    height: 18rem;
+
+}
+
+footer i {
+    color: #d4276d;
+    font-size: 2rem;
+    float: right;
+    padding:  0 0.5rem 0 0;
+}
+
+.rectangle2 {
+    text-align: center;
+    background-color: #d4276d;
+    width: 2rem;
+    height: 0.5rem;
+    align-items: center;
+    margin: 2rem 7rem;
+
+}
+footer p {
+margin: 0 0 0 5rem;
+    float: left;
+}
+
+h3 {
+    margin: 27rem 0rem 0rem 0rem;
+    padding:  1rem 0 0 5rem;
+    position: relative;
+}
+
+.lettre2 {
+    position: absolute;
+    font-size: 40%;
+    text-decoration: underline black 3px;
+    text-transform: uppercase;
+    margin-top: 1.25rem;
+}

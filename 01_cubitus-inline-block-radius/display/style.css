@@ -1,0 +1,36 @@
+.ligne1{
+display: block;
+}
+.ligne2{
+    display: block;
+
+}
+.ligne3{
+    display: block;
+}
+.ligne4{
+    display: block;
+}
+.purple{
+    padding: 1%;
+    background-color: purple;
+    display: inline-block;
+    height: 100px;
+    width: 100px;
+    border-radius: 20%;
+    text-align: center;
+    margin: 2px;
+
+    
+}
+.green{
+    padding: 1%;
+    background-color: green;
+    display: inline-block;
+    height: 100px;
+    width: 100px;
+    border-radius: 20%;
+    text-align: center;
+    margin: 2px;
+    
+}

@@ -1,0 +1,11 @@
+table {
+    margin: 0 0 0 33%;
+    text-align: center;
+    border: 2px black solid;
+    border-collapse: collapse;
+}
+
+tbody tr td,
+tfoot tr td {
+    padding: 2em 0;
+}

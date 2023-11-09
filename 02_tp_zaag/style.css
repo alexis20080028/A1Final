@@ -1,0 +1,221 @@
+@import url('https://fonts.googleapis.com/css2?family=Cormorant+Garamond:ital@0;1&family=Gluten&family=Poppins:ital@0;1&family=Rubik+Beastly&display=swap');
+
+
+header {
+    height: 250px;
+}
+
+body {
+    font-family: 'Poppins', 'Trebuchet MS', Arial, sans-serif;
+    margin: 0% 20%;
+    color: black;
+    background-image: url(/images/fond_jaune.png);
+}
+
+h1 {
+    font-family: 'Rubik Beastly', cursive;
+}
+
+header h2 {
+    font-family: 'Gluten', cursive;
+    font-size: 40px;
+    text-transform: uppercase;
+}
+
+h2 {
+    font-family: 'Gluten', cursive;
+    font-size: 20px;
+    text-transform: uppercase;
+}
+
+.titlle {
+    display: flex;
+    font-size: 200%;
+    margin-top: 2%;
+}
+
+.titlle img {
+    width: 8%;
+    height: 8%;
+}
+
+.titlle h1 {
+    margin: 0px;
+}
+
+header li {
+    display: inline-block;
+    padding: 3%;
+    font-size: 15px;
+}
+
+header ul {
+    text-align: center;
+    margin: 0px;
+    width: 850px;
+}
+
+a {
+    text-decoration: none;
+    color: black;
+    text-transform: uppercase;
+}
+
+.separateur {
+
+    background-image: url(/images/separateur.png);
+    width: 80%;
+    height: 5px;
+}
+
+.band {
+    position: relative;
+    margin-top: 10%;
+    background-image: url(images/sanfrancisco.jpg);
+    width: 80%;
+    height: 219px;
+    border-radius: 10px;
+
+}
+
+.band button {
+    float: right;   
+    margin: 1.2rem 1rem 0rem 0rem;
+    color: white;
+    background-image: url(/images/fond_degraderouge.png);
+    border: red;
+    border-radius: 10%;
+    height: 1.5rem;
+
+}
+
+.band p {
+    float: left;
+    margin-left: 2%;
+    width: 30%;
+    height: 1rem;
+    color: white;
+}
+
+.part-band {
+    position: absolute;
+    bottom: 0;
+    background-color: rgba(236, 236, 236, 0);
+    border-radius: 0px 0 10px 10px;
+    width: 100%;
+    height: 3.5rem;
+
+}
+
+article:first-of-type {
+    width: 49%;
+    height: auto;
+    float: left;
+}
+
+article:first-of-type p {
+font-size: 95%;
+}
+
+article:first-of-type h2 {
+    display: inline-block;
+
+}
+
+article:first-of-type {
+    margin-top: 3%;
+}
+
+
+article:last-of-type {
+    margin-top: 4%;
+    background-color: #706B64;
+    width: 30%;
+    float: right;
+    height: 45rem;
+    margin-right: 20%;
+    border-radius: 3%;
+    text-align: center;
+    color: white;
+}
+
+article:last-of-type p{
+    word-spacing: 120%;
+    font-size: 120%;
+
+}
+article:last-of-type h2 {
+    word-spacing: 5rem;
+    padding: 0% 0% 0% 10%;
+}
+
+.petit-img{
+    width: 15%;
+  margin: 20% 0px 0px 0px;
+}
+
+.bulle{
+    margin-top: 8%;
+    position: absolute;
+}
+
+.clear {
+    clear: both;
+}
+
+.ico-top {
+    margin: 0% 49%;
+}
+
+footer{
+    margin-top: 8%;
+}
+
+.footer-par1{
+    float: left;
+    margin-right: 10%;
+}
+
+.footer-par2 {
+    float: left;
+    text-align: center;
+}
+.footer-par2 img {
+    border: 1px black solid;
+}
+
+.footer-par3 {
+    float: left;
+    width: 45%;
+}
+
+.footer-par3 h2 {
+    text-align: center;
+}
+
+footer li {
+    list-style: none;
+}
+
+.footer-par3 p {
+    display: inline-block;
+    margin: 0%;
+}
+
+.footer-par3 ul {
+float: left;
+margin-bottom: 20%;
+}
+
+.last {
+height: 5rem;
+background-color: #1f0505;
+color: white;
+text-align: center;
+border-radius: 30px 30px 0% 0%;
+
+}
+
+.last p {
+    padding: 2rem 0rem 0rem 0rem;
+}

@@ -1,0 +1,242 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat&display=swap');
+
+
+.floatl {
+    float: left;
+}
+
+.floatr {
+    float: right;
+}
+
+.clear {
+    clear: both;
+}
+
+body {
+    background-image: url(asset/img/fond.png);
+    font-family: "montserrat";
+    
+}
+
+h1 {
+ 
+    font-size: 2.5rem;
+    margin: 0.4em 0 0 0;
+    text-transform: capitalize;
+    font-style: oblique;
+}
+
+.divbody {
+    margin: 1em 15%;
+    background-color: white;
+    box-shadow: -10px 0px 13px -7px #000000, 10px 0px 13px -7px #000000, 0px 0px 49px 18px rgba(0,0,0,0.62);
+}
+
+.firstwordupp {
+    text-transform: capitalize;
+}
+
+.logo {
+    padding: 0 1.25em 0 0;
+    margin:  1.80em 0 0 0;
+    width: 2%;
+}
+
+header div:first-of-type p {
+    color: #ff358b;
+    font-size: 0.90rem;
+    margin: 0;
+    font-weight: bold;
+    font-style: oblique;
+}
+header div:nth-of-type(2) p:nth-of-type(1),
+header div:nth-of-type(2) p:nth-of-type(2) {
+    margin: 0;
+    color: #01b0f0;
+    font-weight: bold;
+}
+
+header div:nth-of-type(2) p:nth-of-type(3) {
+    margin: 0.10em;
+}
+header div:nth-of-type(2) {
+    margin: 1em 0 0 20%;
+}
+
+header div:nth-of-type(2) p:nth-of-type(1) {
+    font-size: 1.25rem;
+
+}
+
+header div:nth-of-type(2) p:nth-of-type(1)::first-letter {
+    text-transform:uppercase
+}
+
+header div:nth-of-type(2) p:nth-of-type(2) {
+    background: url(/07_TP\ Azzaro/asset/img/aide.png)no-repeat;
+    padding: 0 0 0 2em;
+    font-size: 0.9rem;
+    }
+
+table tr td img {
+    margin: 0 0 0 0;
+}
+
+table tr:first-of-type {
+    text-align: center;
+}
+table tr {
+    background-color: #01b0f0;
+    color: white;
+}
+
+table tr td p {
+    height: 0.1em
+}
+
+nav ul li {
+    display: inline-block;
+    text-align: center;
+    padding: 0 1.5em;
+    font-size: 1.25rem;
+    color: white;
+    text-transform: capitalize;
+}
+
+nav ul {
+    background-color: #01b0f0;
+    margin: 0;
+    padding: 0;
+}
+
+nav ul li:first-of-type {
+    padding: 0 1.5em 0 3em;
+}
+
+nav ul li:hover {
+    background-color: #ff358b;
+}
+
+h2:first-of-type {
+    position: absolute;
+    top: 11em;
+    right: 8em;
+margin: 0;
+font-size: 3.75rem;
+}
+
+main img:first-child {
+    width: 100%;
+}
+
+main div:first-of-type div:first-of-type {
+    width: 25%;
+
+}
+
+main div:first-of-type div:first-of-type img {
+    width: 80%;
+}
+
+.border {
+    border-right: 1px black solid;
+    height: 13em;
+    float: left;
+    width: 1px;
+    
+}
+
+main div:first-of-type div:nth-of-type(5) {
+    width: 20%;
+    padding: 0 0 0 1em
+}
+
+main div:first-of-type div:nth-of-type(1) {
+    width: 20%;
+    padding: 0 0 0 1em
+}
+
+
+main div:first-of-type div:nth-of-type(3) {
+    width: 50%;
+    padding: 0 0 0 1em
+}
+
+main div:first-of-type div:nth-of-type(5) {
+    width: 20%;
+    padding: 0 0 0 1em
+}
+
+main div:first-of-type div:nth-of-type(5) p {
+    margin: 0.3em 0 0 0.5em;
+    font-weight: bold;
+}
+
+main div:first-of-type div:nth-of-type(5) img {
+    width: 2em;
+}
+
+h3 {
+    color: #01b0f0;
+    font-size: 1.5em;
+    font-weight: bold;
+}
+
+main div:nth-of-type(2) div {
+    float: left;
+    width: 25%;
+    box-shadow: 0px 0px 50px 0px rgba(0,0,0,0.44);
+    margin: 3em 4%;
+    border-radius: 10px;
+}
+
+main div:nth-of-type(2) div h4 {
+    text-align: center;
+    font-size: 2em;
+    margin: 0;
+    background-color: rgb(181, 181, 181);
+    border-radius: 10px 10px 0 0;
+    border-bottom: 2px black solid;
+    text-transform: capitalize;
+}
+
+main div:nth-of-type(2) div a {
+    text-decoration: none;
+    color: #01b0f0;
+    text-transform: capitalize;
+    font-weight: bolder;
+    float: right;
+    font-size: 1.25em;
+    margin: 0 1em 0 0;
+}
+
+main div:nth-of-type(2) div p {
+    font-weight: bold;
+    float: left;
+    width: 80%;
+}
+
+main div:nth-of-type(2) div img {
+    float: left;
+    width: 20%;
+
+}
+
+footer ul li {
+    display: inline-block;
+    text-transform: capitalize;
+    color: white;
+    font-weight: bold;
+
+}
+
+footer ul {
+
+    padding: 1.25em 0;
+    margin: 0 0 0 9em;
+}
+
+footer {
+    background-color: #01b0f0;
+}

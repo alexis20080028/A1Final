@@ -1,0 +1,47 @@
+table {
+    font-size: 2.5rem;
+    border-collapse: collapse;
+    float: left;
+}
+
+table:first-of-type {
+    margin: 1.15em 0 0 0;
+}
+
+td,
+th {
+padding: 0.5em 2em;
+border: 2px black solid;
+text-align: center;
+}
+
+#vide {
+    border: 0px black solid;
+    background-color: white;
+
+}
+
+th {
+    color: white;
+    background-color: gray;
+}
+table:nth-of-type(2):hover,
+table:nth-of-type(3):hover,
+table:nth-of-type(4):hover{
+    scale: 1.5;
+    transition: 1s;
+    background-color: grey;
+    color: white;
+}
+
+thead {
+    background-color: gray;
+}
+
+body {
+    margin-top: 20em;
+}
+
+.target:hover {
+    background-color: black;
+}

@@ -1,0 +1,34 @@
+body {
+    margin: 0 25%;
+    background: linear-gradient(#BBBBBB,#6b6b6b);
+}
+
+header img {
+    width: 50%;
+    margin: 0 25%;
+}
+
+header {
+    background-color: #0056ad; ;
+}
+
+main {
+    background-color: white;
+}
+main img {
+    width: 100%;
+}
+
+h2 {
+    color: #0056ad;
+    text-align: left;
+    margin: 0 0 0 10%;
+    font-size: 1.75rem;
+}
+
+p {
+    color: #6b6b6b;
+    text-align: left;
+    margin: 0 0 0 10%;
+    font-size: 1.25rem;
+}

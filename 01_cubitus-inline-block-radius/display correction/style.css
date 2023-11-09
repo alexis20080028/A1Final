@@ -1,0 +1,20 @@
+@import url('https://fonts.googleapis.com/css2?family=Gluten:wght@100&family=Poppins:wght@100&family=Rubik+Beastly&display=swap');
+
+.box {
+    width: 100px;
+    height: 100px;
+    border: 2px solid black;
+    margin: 1%;
+    border-radius: 20%;
+    float: left;
+    text-align: center;
+}
+.violet {
+    background-color: rgb(201, 52, 201);
+}
+.vert {
+    background-color: rgb(135, 223, 2);
+}
+.clear {
+    clear: both;
+}

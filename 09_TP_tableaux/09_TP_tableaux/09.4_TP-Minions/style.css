@@ -1,0 +1,102 @@
+table {
+    border-collapse: collapse;
+    float: left;
+
+}
+
+
+
+table:last-of-type {
+    margin: 0 0 0 2%;
+}
+
+table:nth-of-type(2) tr td {
+    border: 0px black solid;
+    width: 10px;
+    height: 10.5px;
+}
+
+table:last-of-type tr td {
+    width: 10px;
+    height: 9px;
+}
+
+.jaune {
+    background-color: yellow;
+}
+
+.gris {
+    background-color: gray;
+}
+
+.blanc {
+    background-color: white;
+}
+
+.noir {
+    background-color: black;
+}
+
+.bleu {
+    background-color: blue;
+}
+
+.marronfoncer {
+    background-color: #312519;
+}
+
+.marron {
+    background-color: #423223;
+}
+
+.beige {
+    background-color: #feaa7e;
+}
+
+.beigefonc {
+    background-color: #fe9a66;
+}
+
+.vert {
+    background-color: #2f4818;
+}
+
+.vertclair {
+    background-color: #3f5827;
+}
+
+.vertfoncé {
+    background-color: #25371b;
+}
+
+.vieuxblanc {
+    background-color: #ffe2ae;
+}
+
+.blancpall {
+    background-color: #ffeccc;
+}
+
+.marronvestefon {
+    background-color: #6e2d0b;
+}
+
+.verttresclair {
+    background-color: #699634;
+}
+
+.marronvest {
+    background-color: #89360c;
+}
+
+.marron1 {
+    background-color: #734627;
+}
+
+.marron2 {
+    background-color: #805133;
+}
+
+.marron3 {
+    background-color: #93602f;
+}
